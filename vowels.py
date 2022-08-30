@@ -20,7 +20,7 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!'''
 
-found = {'a':0, 'e':0, 'i':0, 'o':0, 'u':0}
+found = {'a':0, 'e':0, 'i':0, 'o':0, 'u':0, 'A':0,'E':0,'I':0,'O':0,'U':0}
 
 for i in words:
         if i in found:
