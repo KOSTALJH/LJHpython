@@ -1,8 +1,8 @@
 from ch5.Calculator import Calculator as Cal
-from ch5 import MoreFourCal
+from ch5.MoreFourCal import MoreFourCal
+from ch5.SefeFourCal import SafeFourCal
 
-
-cal1 = MoreFourCal(1,1)
+cal1 = SafeFourCal(4,2)
 cal2 = MoreFourCal()
 cal3 = MoreFourCal(1)
 
